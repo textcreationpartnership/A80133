@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Something written after the manner of a discourse or dialogue betwixt a rigid priestbiterian and good conscience, which begins to be roused up and awakened these trying times.</title>
+            <author>Collens, John.</author>
+         </titleStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80133</idno><idno type="EEBO-CITATION">45789252</idno>
+  <idno type="VID">172562</idno>
+  <idno type="EEBO-PROQUEST">2240895893</idno>
+  
+            <idno type="STC">Wing C5233A</idno>
+            <idno type="STC">ESTC R171437</idno>
+            <idno type="OCLC">45789252</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A80133)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172562)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2639:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Something written after the manner of a discourse or dialogue betwixt a rigid priestbiterian and good conscience, which begins to be roused up and awakened these trying times.</title>
+                  <author>Collens, John.</author>
+               </titleStmt>
+               <extent>23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: I.C. Attributed to John Collens by Wing.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Liberty of conscience --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172562:1"/>
+            <p> SOMETHING WRITTEN After the manner of a Discourse or Dialogue Betwixt a Rigid <hi>PRIESTBITERIAN</hi> And Good Conscience, Which begins to be roused up and awakened these TRYING TIMES.</p>
+            <p>LONDON, Printed for <hi>I. C.</hi> 1662</p>
+            <pb facs="tcp:172562:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="3" facs="tcp:172562:2"/>
+            <head>
+               <hi>Something written after the manner of a Discourse or Dialogue,</hi> &amp;c.</head>
+            <sp>
+               <speaker>Priest.</speaker>
+               <p>
+                  <hi>WEll met Conscience, how dost thou do? Where hast thou been a long time, that I have not seen thee?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cons.</speaker>
+               <p>I am now glad that I have met thee, though I have been sick and in pri<g ref="char:EOLhyphen"/>son, and thou couldest not see me be<g ref="char:EOLhyphen"/>cause Pride, Covetousnesse, Wrath, En<g ref="char:EOLhyphen"/>vy, and Hypocrisie hath made thee blind, the God of this World hath blinded thy mind, that thou hadest quite forgot Con<g ref="char:EOLhyphen"/>science.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>
+                  <hi>But I pray thee, where hast thou been these many dayes, where hath been thy re<g ref="char:EOLhyphen"/>sidence and abode, I knew thee once I'me sure?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cons.</speaker>
+               <p>Why I have been hated, false accused, imprisoned, killed all the day long, under many gross slanders, and reproaches, as Heretick, disturber of the Peace and Government, Blasphemer,
+<pb n="4" facs="tcp:172562:3"/> disturber of Magistracy and Ministry, and all manner of evil that could be spoken by me, even as when thou knewest me, did not then mine enemies who were high, and full, and fat, and proud, and made no conscience, did not they then so deal with me, call to remembrance.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>
+                  <hi>But what dost thou think now Consci<g ref="char:EOLhyphen"/>ence, what will become of our Religion now, we must read the Service Book, and turn again to our old vomit in every thing, and that which is much to be feared, to that which is worse then ever it was.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cons.</speaker>
+               <p>Well what are you not pleased now there is an Act for Uniformity in Religion, have you not long desired it, that you might crush such as you call He<g ref="char:EOLhyphen"/>reticks and Schismaticks, and bring them back again, and are you not pleased now the<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e is an Act, and also an Act against the <hi>Quakers?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>
+                  <hi>But we never intended to set up this Religion, which we have so long called Anti<g ref="char:EOLhyphen"/>christian and Popish, but to have established Priestbitery in its puritie, and according to the example of the best reformed Churches, and so to bring all others to a conformity to that.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cons.</speaker>
+               <p>You never intended it, but now
+<pb n="5" facs="tcp:172562:3"/> it is intended; What think you now, Is it nothing for you to have a yoak made for your Consciences, would not liber<g ref="char:EOLhyphen"/>ty of Conscience be now acceptable to you, and is it an easie thing now for you to suffer for your Consciences, who were so eager to make others suffer for their Consciences.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>
+                  <hi>A ye but they held errour and blasphe<g ref="char:EOLhyphen"/>my, and were disturbers of Ministry, and troublers of the Nation, denyed Tythes and dues,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Cons.</speaker>
+               <p>Did not the Bishops say as much by you, when they ruled over you, while you held acquaintance with me, and en<g ref="char:EOLhyphen"/>deavoured to keep your conscience void of offence, did they not pretend the same things against you, as you did a<g ref="char:EOLhyphen"/>gainst those whom you call Hereticks, <hi>&amp;c.</hi> And didst thou not say, you would have set up Priestbitery in its purity, and according to the example of the best re<g ref="char:EOLhyphen"/>formed Churches, then was not the Church in the Apostles dayes, the most purest, and was not their ex<g ref="char:EOLhyphen"/>ample chiefly to be followed, and then was it not reason and good consci<g ref="char:EOLhyphen"/>ence to detain Tythes, since it could not be proved by their example or practise,
+<pb n="6" facs="tcp:172562:4"/> and was it not reason and good consci<g ref="char:EOLhyphen"/>ence, to separate from you, when you had separated your selves from good conscience, and became persecuters of him, and were for the most part given up to your own hearts lust, in pride, self-exaltation, avarice, cruelty, idola<g ref="char:EOLhyphen"/>try and uncleaness, and yet cry the Church, the Ordinances, as these do now, whom you'l not conform to, and were you not as cruel as these can be to you, let <hi>England</hi> and <hi>New-England</hi> wit<g ref="char:EOLhyphen"/>ness.</p>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <p>
+                  <hi>But Conscience this was thy man<g ref="char:EOLhyphen"/>ner still, thou wouldest judge us, and thou wert to precise in many things, we could ne<g ref="char:EOLhyphen"/>ver well away with thy strictnesse to the Apo<g ref="char:EOLhyphen"/>stles Rule and Practise, thou wilt have every thing proved by Scriptures and lay aside our ancient Fathers, and other godly mens Comentaries, who did as we do after the Church was setled, and Persecution ceased.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Con.</speaker>
+               <p>Am I indeed too strict for you, and is not this Religion loose enough, and do you like neither, and yet hate them which do? will you call the Scrip<g ref="char:EOLhyphen"/>tures the Word of God and the Rule, and yet leave them and fly to ancient
+<pb n="7" facs="tcp:172562:4"/> Fathers Rules, Words and Works, who in many things followed their own cor<g ref="char:EOLhyphen"/>rupt wills and carnal reason, and in this you also follow in what may suite with your own ease and profits, preferment and worldly honours, and so the Crosse of Christ is ceased to you, and you are become lovers of yourselves, and of plea<g ref="char:EOLhyphen"/>sures, and not deniers of your selves, and so are blinded, and quite forget good conscience, as they did who after the Church was setled (as thou sayest) and persecution ceased, did erre from the truth, and good conscience, and set up their own rules, inventions and tra<g ref="char:EOLhyphen"/>ditions, and these have ever since been followed, under the names of Church and Ordinances, and whoever have kept to the Apostles rule, and kept a good conscience, were persecuted by them who held the traditions and were mixed with the worlds interest.</p>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <p>
+                  <hi>But now thou seest we are like to be sufferers for our Consciences as well as o<g ref="char:EOLhyphen"/>thers, are we not, what shall we do?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Con.</speaker>
+               <p>Nay, stay you are not yet suf<g ref="char:EOLhyphen"/>ferers for a good conscience in the fight of God, but for evil doing, what though you may suffer a few of you for the pro<g ref="char:EOLhyphen"/>fession
+<pb n="8" facs="tcp:172562:5"/> of Religion, yet that may not be for good conscience neither, for though your suffering may be inflicted upon you by men, yet you must know that God hath a hand in these things, and there was first a cause in you, that did provoke the Lord to bring these enemies upon you, and to take you as captives, and this is not come upon you as suffering for good conscience, from the hand of God, to exercise you for the tryal of your faith, but as a judgement from God for former disobedience, and there<g ref="char:EOLhyphen"/>fore you have yet good conscience to seek, though you may retain your pro<g ref="char:EOLhyphen"/>fession of Religion, and suffer as <hi>Israel</hi> did in <hi>Babylon,</hi> yet were they lead cap<g ref="char:EOLhyphen"/>tive into <hi>Babylon</hi> for their sins, which you also have been warned of often, for se<g ref="char:EOLhyphen"/>veral years past, but refused to repent, and therefore is this evil come upon you, and not for good conscience, and this you must be throughly sensible of, before ever a remedy be found.</p>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <p>
+                  <hi>But had we ever Prophets as</hi> Is<g ref="char:EOLhyphen"/>rael <hi>had, what though a company of giddy brained people came like mad folks to disturb us, and bid us repent, and judge us, and call us deceivers, and blind guides and such like,</hi>
+                  <pb n="9" facs="tcp:172562:5"/>
+                  <hi>was this warning from the Lord?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Con.</speaker>
+               <p>Yes if you could have made good use of them, if envy, wrath and bitterness of spirit had not filled your minds, you might well have taken it so, and improved it to your advantage, and that for these reasons. First, because they reproved you for the same things, which the true Prophets reproved the false, as of teaching for hire, greedy of filthy lucre, divining for mony, run<g ref="char:EOLhyphen"/>ning after <hi>Baalams</hi> errour, having the chief place in the Assembly, uppermost rooms at Feasts, going in long robes, and called Master, with divers other things even as they did, which practises (though covered with pretences) you were guil<g ref="char:EOLhyphen"/>ty of. Secondly, your dealing with them was just as the false Prophets, High-Priests, Scribes and Pharisees did with the true Prophets, Christ and his Apost<g ref="char:EOLhyphen"/>les, the same terms of reproach and false<g ref="char:EOLhyphen"/>hood as was given them, as Deceivers, Seducers, Blasphemers, turners of the World upside down, bringers in of new Sects, Mad men, with divers such like, even as they did; and were you not blind you saw not this, and then stir up Rulers, Souldiers, False witnesses even as they
+<pb n="10" facs="tcp:172562:6"/> did, with the rude Multitude, to revile, false accuse, imprison, slander, murther and destroy even as they did; Nay might not <hi>Baalam</hi> and his Asse have re<g ref="char:EOLhyphen"/>proved your madness as exceeding his, how fiercely did he strike the poor Asse, because he went not forward, so greedy was he for reward, that if he had had a sword he would have killed him, but he saw not the Angel, which the poor, de<g ref="char:EOLhyphen"/>spised, beaten Asse saw, that stood in his way to have destroyed him; was it not thus with you who though sometimes your foot as it were was crushed, and your head broken, yet you would not be turned, but post on, even head-long to your destruction, and so you digged a pit for others, and your selves are fallen therein, and in the snare that your selves have laid, is your own foot trapped, and now cry out of persecution for consci<g ref="char:EOLhyphen"/>ence, while indeed you are not come to conscience yet, for this is Gods venge<g ref="char:EOLhyphen"/>ance, and so you must take it, and re<g ref="char:EOLhyphen"/>pent, or you will be utterly destroyed for ever; for alas, had you considered these people, though you had not believed that God sent them, yet you might have believed, that God suffered them, and
+<pb n="11" facs="tcp:172562:6"/> that for to reprove you, and for this rea<g ref="char:EOLhyphen"/>son you might have searched your camp, to have found out the accursed thing a<g ref="char:EOLhyphen"/>mongst your selves, that it might have been put from you, that so the plague might have been stayed; and now though the very same things which they speak of, are come upon many already, and are every day hastening to their fulfilling, can you yet believe that you were warned, and that these things are come upon you justly, for your Cruelty and Oppression towards them, your Blood-thirstiness, Covetous<g ref="char:EOLhyphen"/>ness and Pride; herein is the Scriptures fulfilled, <hi>he hath closed their eyes that they cannot see, and hardened their hearts that they cannot understand;</hi> and so, though you make long Prayers, and weep, and howl, and lament, yet this is but the fruit of your own doings, you are not yet come to good Conscience, and find out the cause, and purge your selves first from that which hath brought these great Judgments upon you, that you might begin upon a right foundation.</p>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <p>
+                  <hi>Why</hi> Conscience, <hi>what wouldest thou have us to do? We must not Preach no longer in publick, nor Administer the Ordi<g ref="char:EOLhyphen"/>nances,</hi>
+                  <pb n="12" facs="tcp:172562:7"/>
+                  <hi>and if we do, then we are deeply fined or imprisoned; And if we do it in pri<g ref="char:EOLhyphen"/>vate, we do not only bring our selves in dan<g ref="char:EOLhyphen"/>ger, but we come under our own censure, ha<g ref="char:EOLhyphen"/>ving so much condemned others for private exercising of Religion, and separating from the publick, that they will have just cause to say, That now our own Judgument of others is come upon our selves, and becomes our own case, and thus we are every way straight<g ref="char:EOLhyphen"/>ned.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cons.</speaker>
+               <p>Why now indeed you are tryed, the day hath overtaken you; but if you would take my advice, it will be very hard for you, for indeed you must deny your selves, and truly repent of all your hard speeches, and cruel usages, unjust imprisonments of honest innocent peo<g ref="char:EOLhyphen"/>ple, you must know and believe that these things are come upon you de<g ref="char:EOLhyphen"/>servedly for cruel dealing with them; and you must own, confess, and believe that light in your Consciences which they profess and you blaspheme, that by it you may truly see the corruption, un<g ref="char:EOLhyphen"/>godliness, and impiety of your own hearts, and through it be led to Repen<g ref="char:EOLhyphen"/>tance, and this is hard for you, and so with them chuse to suffer for a good
+<pb n="13" facs="tcp:172562:7"/> Conscience rather then sin against the Law of God in your hearts for all the worlds good, and so learn to see the er<g ref="char:EOLhyphen"/>ror of your own hearts and minds, that from it you may be delivered, and God may give you repentance and the know<g ref="char:EOLhyphen"/>ledge of the Truth; and this light in your Consciences (if you love it and obey it) will let you see what is accepted of God, and what is rejected, and to chuse the good, and refuse the evil, and this will bring you to know what good Conscience is, and what it is to have the heart sprinkled from an evil Conscience, and to have peace with God.</p>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <p>
+                  <hi>Thou tells of the Light, and this the Quakers have told us; but we have de<g ref="char:EOLhyphen"/>tected it as false Doctrine, Error and Delusi<g ref="char:EOLhyphen"/>on, and we are Gifted men, and can Preach and <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ray, What shall become of our gifts? Shall we quite give over to Exercise them? and what shall become of our Families if we give over? May we not Conform and read some part, that so the Gospel may be preached? for otherwise the Gospel may cease to be preach<g ref="char:EOLhyphen"/>ed?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Con.</speaker>
+               <p>Thou didst ask my Advice ere while, as if thou hadst some mind to have followed it; but thou hast de<g ref="char:EOLhyphen"/>tected
+<pb n="14" facs="tcp:172562:8"/> the Truth for Error, this is still irksome to thy stomack; thou hast slan<g ref="char:EOLhyphen"/>dered it, though thou couldest never prove it, and so this is too mean for thy dainty pallat to return to this and know good Conscience, and thou must teach others by any means though thou thy self be cast away; And what is the mat<g ref="char:EOLhyphen"/>ter your Families have been kept full and rich, and proud and lofty, finely array<g ref="char:EOLhyphen"/>ed in silk and soft linnen, and your Children bred in idleness, pride, wan<g ref="char:EOLhyphen"/>tonness and fulness of bread, and you and your Wives in your Master and Mi<g ref="char:EOLhyphen"/>striss-ships, and this is a great Reason that you must preach the Gospel; here is the necessity, a Living, not the Gospel, and your Gifts (if they were so) you will sell, and under this deceit you will do Evil that Good may come thereby; but God abhors it, and you therein, and where is good Conscience all this while when you do that which is con<g ref="char:EOLhyphen"/>trary to the light in your Consciences? and thus you'l preach Faith to others, while you have an evil Conscience, and are void of a pure Conscience where Faith is held: But I tell thee, hold fast Conscience before it be utterly seared,
+<pb n="15" facs="tcp:172562:8"/> and come to have more acquaintance with me, and talk less of thy Gifts, but be humbled that God may exalt thee, and know thy self and wherein thou hast erred, and repent from the bottom of thy heart, and acknowledge the just hand of God, who is measuring the same measure unto you as you have measured to others, and prize liberty of Consci<g ref="char:EOLhyphen"/>ence, and cry down wickedness in your selves and others, and this had been good you had done long since, and have been content if one or two in a parish had not paid you because of good Conscience, which had been suitable to Self-denyal and good Conscience, rather then to have been so mad and furious to get all, that now you are like to loose all, both living and Religion too.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>
+                  <hi>Well</hi> Conscience, <hi>if this be the case, why then it is evident that if we keep a good Conscience, we must deny our selves and loose all, and take up the Cross, if we will hold our Principles, we must bear the shame of our for<g ref="char:EOLhyphen"/>mer actions, or else if we turn, we must of necessity make shipwrack of good Conscience utterly, and become abominable hypocrites, and then we shall stink in the nostrils of honest men, we shall he hated and a scorn amongst</hi>
+                  <pb n="16" facs="tcp:172562:9"/>
+                  <hi>them we turn to, and no people will ever trust us, but our name will be cast out as abo<g ref="char:EOLhyphen"/>minable, we shall be a people too heavy for the Earth to bear because of our abominations, Good men will be grieved, Wicked men will hate us, and God will be our real enemy, and all people will loath the remembrance of us, for we have been treacherous to our friends, cruel to our Enemies, and in all that ever we have done we have sought our selves, and now misery is come upon us, we cannot hide our selves; but prethee</hi> Conscience <hi>is there not yet a way that we may secure our selves?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cons.</speaker>
+               <p>No indeed, for God is come to Judgement against you, and your own devisings hath brought this mis<g ref="char:EOLhyphen"/>chief upon you, and with the same rod that your selves have made for o<g ref="char:EOLhyphen"/>thers, must your own backs be beaten, and this is just, to whom can you fly, Armes will not help you, for you are treacherous amongst your selves, Secta<g ref="char:EOLhyphen"/>ries are your declared enemies, and are under the same condemnation with you, They that keep a good Conscience, they cannot fight with carnal weapons, they are given up in body and spirit to suffer<g ref="char:EOLhyphen"/>ing for good Conscience, and they are therewith content in the will of God,
+<pb n="17" facs="tcp:172562:9"/> they have suffered by you and under you, and they are sufferers still; so there is no hope in man, either you must come to good conscience and fear God, and suffer for his Name, or else turn meer Mercinary Runagadoes, and neither fear God or regard man, but become wholly the Devils Servants for your Bellies, and have the just reward of Eternal Venge<g ref="char:EOLhyphen"/>ance, in everlasting burning in Hell fire, for ever and ever.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>
+                  <hi>Why Conscience, this is exceeding sad and miserable indeed, but is there no way for bringing in of Ʋnity amongst the Godly and most Religious people, though we have been di<g ref="char:EOLhyphen"/>vided one against another, yet that now in this general Calamity, we might be of one heart, to cry unto God that he may help us in this great distresse.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cons.</speaker>
+               <p>It is very hard, and you will as hardly ever be brought unto it, for you have so long raged against the Innocent, and have smote them with the tongue, and with the fist of wickedness, in all your Fasts and Feasts and Solemn Assem<g ref="char:EOLhyphen"/>blies; that now it is much to be feared, you are given up to hardness of heart, and so not capable of true Repentance,
+<pb n="18" facs="tcp:172562:10"/> being the avowed enemies of the Light, by which you must see the evil of your own hearts, for which Gods displeasure is against you, and so you would run to him with you<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Prayers, whether he hear you or no, and <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he sin that separates you and your prayers from God unrepented of; But until You have throughly repen<g ref="char:EOLhyphen"/>ted of, and are washed from these crying sins and great abominations, and become really vile in you<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> own eyes, God doth not regard your Prayers, neither doth your cry come unto him, and while you seek unity with Gods people for your own ends, this also is abominable, for if you had your ends before you have truly repented and your hearts changed, you would destroy them with a greater destruction, therefore this cannot help you.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>
+                  <hi>Why then Conscience what shall we do? we must fly▪ leave our Country, and seek refuge in other Nations, as our Brethren used to do heretofore, we shall never abide here in peace.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cons</speaker>
+               <p>Why this was the manner in dayes of old, the Hireling would fly when the Wolf came, the Sheep are not
+<pb n="19" facs="tcp:172562:10"/> his own, he cannot lay down his life, nay skin for skin, and all that a man hath will he give for his life; what is he that can lay down his life for the profession of Religion when he hath lost a good Con<g ref="char:EOLhyphen"/>science, had you but a good Conscience, and did indeed suffer for the Tryal of your Faith, how bold would it make you; but the sinners in <hi>Sion</hi> are afraid, fearfulness surprizeth the Hypocrite, and now you would fly and leave your flocks to perish, under the mouths of those Pa<g ref="char:EOLhyphen"/>stors whom you believe cannot feed them, though they can fleece them as you have done; But however, this I will tell thee, Go whether thou wilt, I will be with thee, now I am sent to plead with thee; If thou art upon thy Bed, I will be with thee; If thou art shut up in thy se<g ref="char:EOLhyphen"/>cret Chamber, there also shall I find thee; upon the Seas I shall be in thy Bosome, and whether or into what Country canst thou go from me? if sorrow come upon thee, then am I at hand to remember thee; if thy heart enter into mirth, to put my remembrance out of mind, then shall madness possess thee, folly, destru<g ref="char:EOLhyphen"/>ction, bitterness and anguish of soul be
+<pb n="20" facs="tcp:172562:11"/> thy latter end; if hoary hairs come upon thy head, they shal be dishonorable; when wrinkled brows hang over thy hollow eyes, then shall thy polluted heart trou<g ref="char:EOLhyphen"/>ble thee sore; and when thy withered cheeks sink into thy toothless jaws, and the weakness of thy breath not able to drive thy spittle from thy mouth, then shall horror and amazement seize upon thee; and when all thy senses fail, and limbs grow feeble, and thy now delicate body become a rotten stinking carcase, oh then when the glory and strength of thy outward man grows weaker and weaker, then shall I appear stronger and stronger; then shall death stand as a gastly image before thee, and his terror which thou shalt feel in thy Conscience shall afright thee, and when this world can afford thee no pleasure nor content, what then wouldest thou give for a good conscience, when all thy formal Prayers, Hypocri<g ref="char:EOLhyphen"/>tical Fasts and Feasts, made in thy day of thy pride and fulness, when thou wert lifted up in thy own conceit, and sat as a Queen, and said in thy heart, thou shouldest never see sorrow, when all these shall be spread as dung upon your Faces,
+<pb n="21" facs="tcp:172562:11"/> and the sting of sin (which in the day of the committing thereof, thou boasted of its being taken away) shall be awakened, and as a fire that never shall be quench<g ref="char:EOLhyphen"/>ed shall burn within thee, and the worm that never dies begin to gnaw, and all thy Cruelty, Pride, Covetousnesse, Wrath and Envy, which thou in the day of thy prosperity livedst in, shall be again read unto thee, in the Book of thy Con<g ref="char:EOLhyphen"/>science, Oh then what would thou give for a good Conscience, all the World for a good Conscience; then shalt thou re<g ref="char:EOLhyphen"/>member the many pretious Warnings and Visitations thou hast had, and the many reproofs and secret smitings thou hast felt in thy Conscience, and thou hast slighted it, and Persecuted, and Impri<g ref="char:EOLhyphen"/>soned, and Murthered the Just, and he hath not resisted thee, then if thou call a<g ref="char:EOLhyphen"/>gain the dayes that are past, that thou might then gain time for Repentance, but now too late, this cannot ease thee, Sorrow, Anguish and Bitternesse doth compass thee about, one misery upon a<g ref="char:EOLhyphen"/>nother, and one woe and torment upon another, &amp; all to agravate thy Condem<g ref="char:EOLhyphen"/>nation, and this is the portion of them
+<pb n="22" facs="tcp:172562:12"/> that forget God, and keep not their Con<g ref="char:EOLhyphen"/>science void of offence, but for the love of the World or fear of mans wrath, deny their Principles towards God; whereof they are perswaded in their Consciences, and so commit sin against the Law of God, as to them they are perswaded in their hearts. Oh now while thou have yet time remember me, it may be God may be entreated for thee, be not now proud and disdainful, but be low and humble, and learn wisdom betimes; and thus much for the present; Consider of what I have said until we meet again:</p>
+            </sp>
+            <closer>
+               <signed>I. C.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>Oh Priest, thy fiery Zeal hath made a fool</l>
+               <l>Of thee, that thou hadst need to go to School</l>
+               <l>To learn to plead with Conscience 'gainst thy sin,</l>
+               <l>Which thou so proudly long hast lived in;</l>
+               <pb n="23" facs="tcp:172562:12"/>
+               <l> But now the time is come, when thou and I,</l>
+               <l>May both in Prison for our Conscience lie,</l>
+               <l>And there may reason what the matter was,</l>
+               <l>And how these things so strangely came to pass,</l>
+               <l>That we together should so near be brought,</l>
+               <l>That were so far asunder as we thought.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
